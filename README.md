@@ -1,5 +1,4 @@
 ### Hi there! My name is Arthur! 👋
-I'm mechanical engineering student, with passion for technology!
 
 ### 💻 My developing technologies
 <div style="display: inline">
