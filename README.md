@@ -1,5 +1,5 @@
 ### Greetings
-Hi there! My name is Arthur! 👋
+Hi there! My name is Arthur!👋
 I draw on my experiences in the world of programming and technology
 
 
