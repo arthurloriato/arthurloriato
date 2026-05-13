@@ -13,10 +13,6 @@ meu raciocínio lógico estruturado ao aprendizado constante do desenvolvimento 
 
 🔧 Da engrenagem ao algoritmo — resolvendo problemas com a mesma precisão.
 
-### Contato
-<a href="https://www.linkedin.com/in/arthur-loriato-calmon-de-figueiredo-a252091b8/">
-<img width="45" weight="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-
 ---
 
 ## Hello, world! 👋
@@ -33,5 +29,9 @@ Currently, I’m focusing my studies on **C#** and **SQL Server** (Backend), see
 my structured logical reasoning with the constant learning of software development.
 
 🔧 From gears to algorithms — solving problems with the same precision.
+
+### Contact
+<a href="https://www.linkedin.com/in/arthur-loriato-calmon-de-figueiredo-a252091b8/">
+<img width="45" weight="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 
 
