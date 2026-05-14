@@ -25,7 +25,7 @@ Today, I’m applying that experience to the field of Technology. I realized tha
 precision required to design a mechanical component is the same as that required to
 write clean, efficient code.
 
-In the moment, I’m focusing my studies on **C#** and **SQL Server** (Backend), seeking to combine
+At the moment, I’m focusing my studies on **C#** and **SQL Server** (Backend), seeking to combine
 my structured logical reasoning with the constant learning of software development.
 
 From gears to algorithms — solving problems with the same precision.
