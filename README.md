@@ -8,7 +8,7 @@ Hoje estou canalizando essa experiência para a área de Tecnologia. Percebi que
 precisão necessária para projetar um componente mecânico é a mesma exigida para
 escrever um código limpo e eficiente.
 
-Atualmente, foco meus estudos em **C#** e **SQL Server** (Backend), buscando unir
+No momento, foco meus estudos em **C#** e **SQL Server** (Backend), buscando unir
 meu raciocínio lógico estruturado ao aprendizado constante do desenvolvimento de software.
 
 Da engrenagem ao algoritmo — resolvendo problemas com a mesma precisão.
@@ -25,7 +25,7 @@ Today, I’m applying that experience to the field of Technology. I realized tha
 precision required to design a mechanical component is the same as that required to
 write clean, efficient code.
 
-Currently, I’m focusing my studies on **C#** and **SQL Server** (Backend), seeking to combine
+In the moment, I’m focusing my studies on **C#** and **SQL Server** (Backend), seeking to combine
 my structured logical reasoning with the constant learning of software development.
 
 From gears to algorithms — solving problems with the same precision.
