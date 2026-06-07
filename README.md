@@ -44,9 +44,6 @@ var stack = new {
 
 ## 📫 Contato
 
-<a href="https://www.linkedin.com/in/arthur-loriato-calmon-de-figueiredo-a252091b8/">
-<img width="45" weight="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-
  <a href="https://www.linkedin.com/in/arthur-loriato-calmon-de-figueiredo-a252091b8/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ---
 ---
@@ -97,8 +94,7 @@ var stack = new {
 
 ## 📫 Contact
 
-<a href="https://www.linkedin.com/in/arthur-loriato-calmon-de-figueiredo-a252091b8/">
-<img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+ <a href="https://www.linkedin.com/in/arthur-loriato-calmon-de-figueiredo-a252091b8/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 
