@@ -99,7 +99,5 @@ var stack = new {
 <a href="https://www.linkedin.com/in/arthur-loriato-calmon-de-figueiredo-a252091b8/">
 <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 
----
----
 
 
