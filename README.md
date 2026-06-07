@@ -26,7 +26,7 @@ var stack = new {
     linguagem   = "C#",
     banco       = "SQL Server",
     foco        = "Backend Development",
-    mentalidade = "Engenheiro de soluções de problemas"
+    mentalidade = "Engenheiro desenvolvedor de soluções"
 };
 ```
 
@@ -75,7 +75,7 @@ var stack = new {
     language   = “C#”,
     database   = “SQL Server”,
     focus     = “Backend Development”,
-    mindset   = “Problem-Solving Engineer”
+    mindset   = “Problem-Solving Developer Engineer”
 };
 ```
 
