@@ -47,23 +47,59 @@ var stack = new {
 <a href="https://www.linkedin.com/in/arthur-loriato-calmon-de-figueiredo-a252091b8/">
 <img width="45" weight="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 
-## Hello, world! 👋
+---
+---
 
-I’ve always been driven by logic and the desire to understand how things work.
-During my studies in Mechanical Engineering, I developed a solid analytical foundation and the habit
-of solving complex problems.
+<!-- Header -->
+# Hello, world! 👋 I'm Arthur Loriato!
 
-Today, I’m applying that experience to the field of Technology. I realized that the
-precision required to design a mechanical component is the same as that required to
-write clean, efficient code.
+<!-- Subtitle -->
+### From gears to algorithms — solving problems with the same precision.
 
-At the moment, I’m focusing my studies on **C#** and **SQL Server** (Backend), seeking to combine
-my structured logical reasoning with the constant learning of software development.
+---
 
-From gears to algorithms — solving problems with the same precision.
+## 🔩 About me
 
-### Contact
+With a degree in **Mechanical Engineering**, I am now transitioning into the
+world of **Technology**. I discovered that the precision required to
+design a mechanical component is the same as that required to write
+clean and efficient code.
+
+I am currently focusing my studies on **Backend**, combining the
+analytical reasoning of engineering with software development.
+
+---
+
+## 🛠️ Current Stack
+
+```csharp
+// What I'm learning and practicing
+var stack = new {
+    language   = “C#”,
+    database   = “SQL Server”,
+    focus     = “Backend Development”,
+    mindset   = “Problem Engineer”
+};
+```
+
+---
+
+## 📈 In progress
+
+- [x] Programming logic foundation
+- [x] C# fundamentals
+- [ ] ASP.NET Core (next step)
+- [ ] RESTful APIs
+- [ ] Practical projects in portfolio
+
+---
+
+## 📫 Contact
+
 <a href="https://www.linkedin.com/in/arthur-loriato-calmon-de-figueiredo-a252091b8/">
-<img width="45" weight="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+<img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+
+---
+---
 
 
