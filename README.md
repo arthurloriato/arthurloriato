@@ -1,19 +1,51 @@
-## Olá, mundo! 👋
+<!-- Cabeçalho -->
+# Olá, mundo! 👋 Eu sou [Seu Nome]
 
-Sempre fui movido pela lógica e pela vontade de entender como as coisas funcionam.
-Durante minha formação em Mecânica, desenvolvi uma base analítica sólida e o hábito
-de resolver problemas complexos.
-
-Hoje estou canalizando essa experiência para a área de Tecnologia. Percebi que a
-precisão necessária para projetar um componente mecânico é a mesma exigida para
-escrever um código limpo e eficiente.
-
-No momento, foco meus estudos em **C#** e **SQL Server** (Backend), buscando unir
-meu raciocínio lógico estruturado ao aprendizado constante do desenvolvimento de software.
-
-Da engrenagem ao algoritmo — resolvendo problemas com a mesma precisão.
+<!-- Subtítulo -->
+### Da engrenagem ao algoritmo — resolvendo problemas com a mesma precisão.
 
 ---
+
+## 🔩 Sobre mim
+
+Formado em **Engenharia Mecânica**, hoje faço minha transição para o
+universo de **Tecnologia**. Descobri que a precisão necessária para
+projetar um componente mecânico é a mesma exigida para escrever um
+código limpo e eficiente.
+
+Atualmente foco meus estudos em **Backend**, unindo o raciocínio
+analítico da engenharia ao desenvolvimento de software.
+
+---
+
+## 🛠️ Stack atual
+
+```csharp
+// O que estou aprendendo e praticando
+var stack = new {
+    linguagem   = "C#",
+    banco       = "SQL Server",
+    foco        = "Backend Development",
+    mentalidade = "Engenheiro de problemas"
+};
+```
+
+---
+
+## 📈 Em construção
+
+- [x] Base em lógica de programação
+- [x] Fundamentos de C#
+- [ ] ASP.NET Core (próximo passo)
+- [ ] APIs RESTful
+- [ ] Projetos práticos no portfólio
+
+---
+
+## 📫 Contato
+
+<a href="https://www.linkedin.com/in/arthur-loriato-calmon-de-figueiredo-a252091b8/">
+<img width="45" weight="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 
 ## Hello, world! 👋
 
