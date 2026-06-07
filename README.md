@@ -1,5 +1,5 @@
 <!-- Cabeçalho -->
-# Olá, mundo! 👋 Eu sou [Seu Nome]
+# Olá, mundo! 👋 Eu sou Arthur Loriato!
 
 <!-- Subtítulo -->
 ### Da engrenagem ao algoritmo — resolvendo problemas com a mesma precisão.
