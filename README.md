@@ -62,7 +62,7 @@ world of **Technology**. I discovered that the precision required to
 design a mechanical component is the same as that required to write
 clean and efficient code.
 
-I am currently focusing my studies on **Backend**, combining the
+I am currently focusing my studies on **C# and SQL Server**, combining the
 analytical reasoning of engineering with software development.
 
 ---
