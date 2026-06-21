@@ -13,7 +13,7 @@ universo de **Tecnologia**. Descobri que a precisão necessária para
 projetar um componente mecânico é a mesma exigida para escrever um
 código limpo e eficiente.
 
-Atualmente foco meus estudos em **Backend**, unindo o raciocínio
+No momento foco meus estudos em **C# e SQL Server**, unindo o raciocínio
 analítico da engenharia ao desenvolvimento de software.
 
 ---
