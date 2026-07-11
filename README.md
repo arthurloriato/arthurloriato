@@ -13,7 +13,7 @@ universo de **Tecnologia**. Descobri que a precisão necessária para
 projetar um componente mecânico é a mesma exigida para escrever um
 código limpo e eficiente.
 
-No momento foco meus estudos em **C# e SQL Server**, unindo o raciocínio
+No momento, estudo **C# e SQL Server**, unindo o raciocínio
 analítico da engenharia ao desenvolvimento de software.
 
 ---
@@ -62,7 +62,7 @@ world of **Technology**. I discovered that the precision required to
 design a mechanical component is the same as that required to write
 clean and efficient code.
 
-I am currently focusing my studies on **C# and SQL Server**, combining the
+I am currently studying **C# and SQL Server**, combining the
 analytical reasoning of engineering with software development.
 
 ---
