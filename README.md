@@ -35,7 +35,7 @@ var stack = new {
 
 - [x] Base em lógica de programação
 - [x] Fundamentos de C#
-- [ ] ASP.NET Core (próximo passo)
+- [ ] ASP.NET Core
 - [ ] APIs RESTful
 - [ ] Projetos práticos no portfólio
 
@@ -83,7 +83,7 @@ var stack = new {
 
 - [x] Programming logic foundation
 - [x] C# fundamentals
-- [ ] ASP.NET Core (next step)
+- [ ] ASP.NET Core
 - [ ] RESTful APIs
 - [ ] Practical projects in portfolio
 
