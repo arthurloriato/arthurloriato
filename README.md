@@ -13,7 +13,7 @@ universo de **Tecnologia**. Descobri que a precisão necessária para
 projetar um componente mecânico é a mesma exigida para escrever um
 código limpo e eficiente.
 
-No momento, estudo **C# e SQL Server**, unindo o raciocínio
+No momento estudo **C# e SQL Server**, unindo o raciocínio
 analítico da engenharia ao desenvolvimento de software.
 
 ---
