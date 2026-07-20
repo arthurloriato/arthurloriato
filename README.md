@@ -13,7 +13,7 @@ universo de **Tecnologia**. Descobri que a precisão necessária para
 projetar um componente mecânico é a mesma exigida para escrever um
 código limpo e eficiente.
 
-No momento estudo **C# e SQL Server**
+No momento estudo **JavaScript e SQL Server**
 
 ---
 
@@ -22,9 +22,9 @@ No momento estudo **C# e SQL Server**
 ```csharp
 // O que estou aprendendo e praticando
 var stack = new {
-    linguagem   = "C#",
+    linguagem   = "JavaScript",
     banco       = "SQL Server",
-    foco        = "Backend Development",
+    foco        = "FullStack Development",
     mentalidade = "Engenheiro Desenvolvedor de Soluções"
 };
 ```
@@ -34,9 +34,9 @@ var stack = new {
 ## 📈 Em construção
 
 - [x] Base em lógica de programação
-- [x] Fundamentos de C#
-- [ ] ASP.NET Core
-- [ ] APIs RESTful
+- [ ] Fundamentos de JavaScript
+- [ ] HTML e CSS
+- [ ] React
 - [ ] Projetos práticos no portfólio
 
 ---
@@ -61,7 +61,7 @@ world of **Technology**. I discovered that the precision required to
 design a mechanical component is the same as that required to write
 clean and efficient code.
 
-I am currently studying **C# and SQL Server**
+I am currently studying **JavaScript and SQL Server**
 
 ---
 
@@ -70,7 +70,7 @@ I am currently studying **C# and SQL Server**
 ```csharp
 // What I'm learning and practicing
 var stack = new {
-    language   = “C#”,
+    language   = “JavaScript”,
     database   = “SQL Server”,
     focus     = “Backend Development”,
     mindset   = “Problem-Solving Developer Engineer”
@@ -82,9 +82,9 @@ var stack = new {
 ## 📈 In progress
 
 - [x] Programming logic foundation
-- [x] C# fundamentals
-- [ ] ASP.NET Core
-- [ ] RESTful APIs
+- [x] JavaScript fundamentals
+- [ ] HTML and CSS
+- [ ] React
 - [ ] Practical projects in portfolio
 
 ---
