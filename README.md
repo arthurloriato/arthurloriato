@@ -70,8 +70,8 @@ I am currently studying **JavaScript and SQL Server**
 ```csharp
 // What I'm learning and practicing
 var stack = new {
-    language   = “JavaScript”,
-    database   = “SQL Server”,
+    language  = “JavaScript”,
+    database  = “SQL Server”,
     focus     = “Backend Development”,
     mindset   = “Problem-Solving Developer Engineer”
 };
