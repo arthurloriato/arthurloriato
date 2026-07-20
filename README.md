@@ -34,7 +34,7 @@ var stack = new {
 ## 📈 Em construção
 
 - [x] Base em lógica de programação
-- [ ] Fundamentos de JavaScript
+- [x] Fundamentos de JavaScript
 - [ ] HTML e CSS
 - [ ] React
 - [ ] Projetos práticos no portfólio
